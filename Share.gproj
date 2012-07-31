@@ -1,0 +1,9 @@
+<project>
+ <properties autorotation="0" fps="60" scaleMode="0" iosDevice="0" xcodeVersion="0" packageName="com.jenots.lighning" logicalHeight="480" logicalWidth="320" retinaDisplay="0" assetsOnly="0" orientation="0" architecture="1">
+  <imageScales/>
+ </properties>
+ <file source="twitter.png"/>
+ <file source="facebook.png"/>
+ <file source="Share.lua"/>
+ <file source="main.lua"/>
+</project>
